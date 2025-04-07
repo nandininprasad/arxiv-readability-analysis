@@ -1,0 +1,1 @@
+**Goal:** Develop an automated system that processes a scientific paper and computes readability statistics, uses an LLM to generate a paper summary and podcast conversation script. Use the script to generate a podcast using TTS.
